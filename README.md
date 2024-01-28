@@ -26,8 +26,8 @@
 메일: aakdlwns@naver.com
 
 이름: 이효원  
-깃헙: github.com/  
-메일:
+깃헙: github.com/ehyowon  
+메일: 0825hyowon@gmail.com  
 
 ## 스터디 목표
 
