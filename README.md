@@ -5,29 +5,9 @@
 
 ## 팀 구성
 
-### 팀장
-
-이름: 신웅비  
-깃헙: github.com/kugnbi  
-메일: dobby12335@gmail.com
-
-### 팀원
-
-이름: 노성원  
-깃헙: github.com/sungwonnoh  
-메일: jessica20730@naver.com
-
-이름: 김재헌  
-깃헙: github.com/rlawogjs  
-메일: rlawogjs0428@naver.com
-
-이름: 박승준  
-깃헙: github.com/lIIlllIIIIlI  
-메일: aakdlwns@naver.com
-
-이름: 이효원  
-깃헙: github.com/ehyowon  
-메일: 0825hyowon@gmail.com  
+|                                                        **신웅비**                                                         |                                                           **노성원**                                                           |                                                         **이효원**                                                          |                                                          **박승준**                                                          |                                                            **김재헌**                                                            |
+| :-----------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: |
+| [<img src="https://avatars.githubusercontent.com/u/16620948?v=4" height=150 width=150> <br/> ](https://github.com/kungbi) | [<img src="https://avatars.githubusercontent.com/u/129041262?v=4" height=150 width=150> <br/> ](https://github.com/sungwonnoh) | [<img src="https://avatars.githubusercontent.com/u/129304827?v=4" height=150 width=150> <br/> ](https://github.com/ehyowon) | [<img src="https://avatars.githubusercontent.com/u/155280174?v=4" height=150 width=150> <br/> ](https://github.com/rlawogjs) | [<img src="https://avatars.githubusercontent.com/u/126866836?v=4" height=150 width=150> <br/> ](https://github.com/lIIlllIIIIlI) |
 
 ## 스터디 목표
 
