@@ -61,7 +61,7 @@ PCB(Process Control Block)은 프로세스에 대한 정보를 저장하는 장�
 
 ~ 운영체제 마지막까지(나중에 마무리하자)
 
-[](https://github.com/remzi-arpacidusseau/ostep-translations/tree/master/korean)
+(https://github.com/remzi-arpacidusseau/ostep-translations/tree/master/korean)
 
 이용준님이 보내주신 ostep 여기에 C 공부에 도움이 될 것 같다하셔서 째려 보고 있다.
 
