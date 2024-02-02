@@ -84,9 +84,9 @@
   ㄴ Data Structure & Algorithm
 
 # Lecture
-  ㄴ week0
-     ㄴ 강의명
-         ㄴ 이름 (한 주차가 끝나고 리뷰하면서 하나로 합치기)
+  ㄴ Part 0
+     ㄴ 0차시
+         ㄴ 이름.md
 ```
 </br></br>
 
