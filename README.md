@@ -40,12 +40,12 @@
 | <div align="center">07</div> | <div align="center">보조기억장치</div> | <div align="center">박준희</div> | <div align="center">02.03</div> |
 | <div align="center">08</div> | <div align="center">입출력장치</div> | <div align="center">서희원</div> | <div align="center">02.03</div> |
 | <div align="center">09</div> | <div align="center">운영체제 시작하기</div> | <div align="center">-</div> | <div align="center">-</div> |
-| <div align="center">10</div> | <div align="center">프로세스와 스레드</div> | <div align="center">-</div> | <div align="center">-</div> |
-| <div align="center">11</div> | <div align="center">CPU 스케줄링</div> | <div align="center">-</div> | <div align="center">-</div> |
-| <div align="center">12</div> | <div align="center">프로세스 동기화</div> | <div align="center">-</div> |<div align="center">-</div> |
-| <div align="center">13</div> | <div align="center">교착 상태</div> | <div align="center">-</div> |<div align="center">-</div> |
-| <div align="center">14</div> | <div align="center">가상 메모리</div> | <div align="center">-</div> |<div align="center">-</div> |
-| <div align="center">15</div> | <div align="center">파일 시스템</div> | <div align="center">-</div> |<div align="center">-</div> |
+| <div align="center">10</div> | <div align="center">프로세스와 스레드</div> | <div align="center">박준희</div> | <div align="center">02.08</div> |
+| <div align="center">11</div> | <div align="center">CPU 스케줄링</div> | <div align="center">박준희</div> | <div align="center">02.08</div> |
+| <div align="center">12</div> | <div align="center">프로세스 동기화</div> | <div align="center">박소미</div> |<div align="center">02.08</div> |
+| <div align="center">13</div> | <div align="center">교착 상태</div> | <div align="center">박소미</div> |<div align="center">02.08</div> |
+| <div align="center">14</div> | <div align="center">가상 메모리</div> | <div align="center">서희원</div> |<div align="center">02.08</div> |
+| <div align="center">15</div> | <div align="center">파일 시스템</div> | <div align="center">서희원</div> |<div align="center">02.08</div> |
 
 </div>
 </details>
