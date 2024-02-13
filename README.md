@@ -11,13 +11,13 @@
 
 | 파트 | 제목 | 진행일 |
 |-------|-------|-------|
-| <div align="center">01</div> | <div align="center">컴퓨터 과학 소개</div> | <div align="center">-</div> |
-| <div align="center">02</div> | <div align="center">데이터 표현과 디지털 논리</div>| <div align="center">-</div> |
-| <div align="center">03</div> | <div align="center">컴퓨터 구조</div> | <div align="center">-</div> |
-| <div align="center">04</div> | <div align="center">운영체제</div> | <div align="center">-</div> |
-| <div align="center">05</div> | <div align="center">프로그래밍 언어</div> | <div align="center">-</div> |
-| <div align="center">06</div> | <div align="center">자료구조</div> | <div align="center">-</div> |
-| <div align="center">07</div> | <div align="center">알고리즘</div> | <div align="center">-</div> |
+| <div align="center">01</div> | <div align="center">컴퓨터 과학 소개</div> | <div align="center">02.03</div> |
+| <div align="center">02</div> | <div align="center">데이터 표현과 디지털 논리</div>| <div align="center">02.03</div> |
+| <div align="center">03</div> | <div align="center">컴퓨터 구조</div> | <div align="center">02.03</div> |
+| <div align="center">04</div> | <div align="center">운영체제</div> | <div align="center">02.08</div> |
+| <div align="center">05</div> | <div align="center">프로그래밍 언어</div> | <div align="center">02.08</div> |
+| <div align="center">06</div> | <div align="center">자료구조</div> | <div align="center">02.15</div> |
+| <div align="center">07</div> | <div align="center">알고리즘</div> | <div align="center">02.15</div> |
 | <div align="center">08</div> | <div align="center">데이터베이스</div> | <div align="center">-</div> |
 | <div align="center">09</div> | <div align="center">네트워크와 인터넷</div> | <div align="center">-</div> |
 | <div align="center">10</div> | <div align="center">보안과 암호화</div> | <div align="center">-</div> |
@@ -46,6 +46,25 @@
 | <div align="center">13</div> | <div align="center">교착 상태</div> | <div align="center">박소미</div> |<div align="center">02.08</div> |
 | <div align="center">14</div> | <div align="center">가상 메모리</div> | <div align="center">서희원</div> |<div align="center">02.08</div> |
 | <div align="center">15</div> | <div align="center">파일 시스템</div> | <div align="center">서희원</div> |<div align="center">02.08</div> |
+
+</div>
+</details>
+
+
+<details>
+<summary><strong><em>이것이 코딩 테스트다</em></strong></summary>
+<div markdown="1">
+
+| 챕터 | 제목 | 담당자 | 발표일 |
+|-------|-------|-------|-------|
+| <div align="center">01</div> | <div align="center">그리디</div> | <div align="center">박준희</div> | <div align="center">02.15</div> |
+| <div align="center">02</div> | <div align="center">구현</div> | <div align="center">박준희</div> | <div align="center">02.15</div> |
+| <div align="center">03</div> | <div align="center">DFS/BFS</div> | <div align="center">서희원</div> | <div align="center">02.15</div> |
+| <div align="center">04</div> | <div align="center">정렬</div> | <div align="center">박준희</div> | <div align="center">02.15</div> |
+| <div align="center">05</div> | <div align="center">이진 탐색</div> | <div align="center">서희원</div> | <div align="center">02.15</div> |
+| <div align="center">06</div> | <div align="center">다이나믹 프로그래밍</div> | <div align="center">박준희</div> | <div align="center">02.15</div> |
+| <div align="center">07</div> | <div align="center">최단 경로</div> | <div align="center">서희원</div> | <div align="center">02.15</div> |
+| <div align="center">08</div> | <div align="center">그래프 이론</div> | <div align="center">서희원</div> | <div align="center">02.15</div> |
 
 </div>
 </details>
