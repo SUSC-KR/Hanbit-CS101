@@ -1,0 +1,5 @@
+1. 컴퓨터 간에 데이터를 서로 주고받을 수 있도록 한 통신 규약
+
+2. Physical layer(물리적 계층), Data link Layer(데이터 링크계층), Network layer(네트워크 계층), Transport layer(전송 계층), Session layer(세션 계층), Presentation layer(표현 계층), Application layer(응용 계층)
+
+3. tracert
